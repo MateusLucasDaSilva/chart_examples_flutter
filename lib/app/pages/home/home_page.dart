@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chart/app/pages/maps/chart_axis_page.dart';
-import 'package:flutter_chart/app/pages/maps/chart_linear_page.dart';
-import 'package:flutter_chart/app/pages/maps/chart_area_page.dart';
-import 'package:flutter_chart/app/pages/maps/chart_pizza_page.dart';
+import 'package:flutter_chart/app/pages/charts/chart_axis_page.dart';
+import 'package:flutter_chart/app/pages/charts/chart_linear_page.dart';
+import 'package:flutter_chart/app/pages/charts/chart_area_page.dart';
+import 'package:flutter_chart/app/pages/charts/chart_pizza_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
